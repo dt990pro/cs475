@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (First.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  first.cpp
+c:\users\mojia\downloads\475\proj5\first.cpp(226): warning C4838: conversion from 'int' to 'std::size_t' requires a narrowing conversion
+c:\users\mojia\downloads\475\proj5\first.cpp(227): warning C4838: conversion from 'int' to 'std::size_t' requires a narrowing conversion
+  First.vcxproj -> C:\Users\mojia\Downloads\475\proj5\Debug\proj5.exe
+  First.vcxproj -> C:\Users\mojia\Downloads\475\proj5\Debug\proj5.pdb (Full PDB)

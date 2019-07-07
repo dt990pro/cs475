@@ -1,0 +1,4 @@
+﻿  sample.cpp
+C:\Users\mojia\Downloads\475\ParticlesCL2017\sample.cpp(358,57): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\mojia\Downloads\475\ParticlesCL2017\.\Debug\Sample.exe
